@@ -15,6 +15,7 @@
 		6A3EEB5A27EBC00000D1EC57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A3EEB5927EBC00000D1EC57 /* Assets.xcassets */; };
 		6A3EEB5D27EBC00000D1EC57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A3EEB5B27EBC00000D1EC57 /* LaunchScreen.storyboard */; };
 		6AB95B9527EBD0AE003E744D /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB95B9427EBD0AE003E744D /* API.swift */; };
+		6AB95B9A27EBD0F1003E744D /* APIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB95B9927EBD0F1003E744D /* APIII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6A3EEB5E27EBC00000D1EC57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A5952ED8F0043CD2A8BE495 /* Pods-InstagramiOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramiOS.debug.xcconfig"; path = "Target Support Files/Pods-InstagramiOS/Pods-InstagramiOS.debug.xcconfig"; sourceTree = "<group>"; };
 		6AB95B9427EBD0AE003E744D /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		6AB95B9927EBD0F1003E744D /* APIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIII.swift; sourceTree = "<group>"; };
 		8EF82F32AF95230F932C5D1F /* Pods_InstagramiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1A9141658C46BF7724260B5 /* Pods-InstagramiOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramiOS.release.xcconfig"; path = "Target Support Files/Pods-InstagramiOS/Pods-InstagramiOS.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				6AB95B9427EBD0AE003E744D /* API.swift */,
+				6AB95B9927EBD0F1003E744D /* APIII.swift */,
 			);
 			path = Network;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				6A3EEB5527EBBFFE00D1EC57 /* ViewController.swift in Sources */,
 				6A3EEB5127EBBFFE00D1EC57 /* AppDelegate.swift in Sources */,
 				6AB95B9527EBD0AE003E744D /* API.swift in Sources */,
+				6AB95B9A27EBD0F1003E744D /* APIII.swift in Sources */,
 				6A3EEB5327EBBFFE00D1EC57 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
